@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Datasets
+/datasets/ag_news*
+/datasets/mini.h5
+/datasets/MNIST
+
+# Solutions
+*Solutions.ipynb
